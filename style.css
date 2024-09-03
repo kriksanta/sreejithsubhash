@@ -8,10 +8,10 @@
     border: none;
     outline: none;
     font-family: 'Poppins', sans-serif;
-    background-image: url(pen.jpg);
+/*     background-image: url(pen.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center; */
 }
 
 html{
